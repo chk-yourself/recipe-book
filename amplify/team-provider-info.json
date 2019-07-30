@@ -1,0 +1,21 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "recipe-book-dev-20190730062853-authRole",
+            "UnauthRoleArn": "arn:aws:iam::853086000039:role/recipe-book-dev-20190730062853-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::853086000039:role/recipe-book-dev-20190730062853-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "recipe-book-dev-20190730062853-deployment",
+            "UnauthRoleName": "recipe-book-dev-20190730062853-unauthRole",
+            "StackName": "recipe-book-dev-20190730062853",
+            "StackId": "arn:aws:cloudformation:us-west-2:853086000039:stack/recipe-book-dev-20190730062853/369f6690-b2bd-11e9-9253-028146f68342"
+        },
+        "categories": {
+            "auth": {
+                "recipebook00517aa4": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
